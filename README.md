@@ -1,4 +1,6 @@
 ### Well hello there ! - I'm Emile Gardent and there is my [website] 👋
+ - I'm a french guy looking to experience in web and app programming !
+
 
 [![Website](https://img.shields.io/website?label=egardent.fr&style=for-the-badge&url=https%3A%2F%2Fegardent.fr)](https://egardent.fr/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/EmileGardent?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/EmileGardent)
