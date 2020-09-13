@@ -37,7 +37,7 @@
 
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>My Github Stats</summary>
 
 ![Emile Gardent's github stats](https://github-readme-stats.vercel.app/api?username=emile-g&count_private=true)
 
