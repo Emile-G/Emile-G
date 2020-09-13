@@ -1,7 +1,7 @@
 ### Well hello there ! - I'm Emile Gardent [website] 👋
 
 [![Website](https://img.shields.io/website?label=egardent.fr&style=for-the-badge&url=https%3A%2F%2Fegardent.fr)](https://egardent.fr/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/emile-g?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/EmileGardent)
+[![Twitter Follow](https://img.shields.io/twitter/follow/EmileGardent?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/EmileGardent)
 
 ## I'm a Back-End oriented developper, looking to learn some server stuff too !
 
