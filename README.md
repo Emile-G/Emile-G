@@ -1,6 +1,6 @@
 ### Well hello there ! - I'm Emile Gardent and there is my [website] 👋
- - I'm a french guy looking to experience in web and app programming !
 
+- I'm a french guy looking to experience in web and app programming !
 
 [![Website](https://img.shields.io/website?label=egardent.fr&style=for-the-badge&url=https%3A%2F%2Fegardent.fr)](https://egardent.fr/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/EmileGardent?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/EmileGardent)
@@ -8,7 +8,7 @@
 ## I'm a Back-End oriented developper, looking to learn some server stuff too !
 
 - 🔭 I’m currently working on a [portfolio][website]!
-- 👯 I’m looking to  get a job, and learn some new stuff.
+- 👯 I’m looking to get a job, and learn some new stuff.
 - 🥅 2020 Goals: Find a job, get more to the front-end side of things
 
 ### Connect with me:
@@ -34,7 +34,6 @@
 <br />
 
 ---
-
 
 <details>
   <summary>My Github Stats</summary>
