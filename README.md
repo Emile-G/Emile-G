@@ -40,7 +40,7 @@
 
 ![Emile Gardent's github stats](https://github-readme-stats.vercel.app/api?username=emile-g&count_private=true)
 <br/>
-[![My top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emile-g&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![My top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emile-g&layout=compact)
 
 </details>
 
