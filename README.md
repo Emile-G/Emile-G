@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a [portfolio][website]!
 - 👯 I’m looking to get a job, and learn some new stuff.
-- 🥅 2020 Goals: Find a job, get more to the front-end side of things
+- 🥅 2021 Goals: Find a job, get more to the front-end side of things
 
 ### Connect with me:
 
