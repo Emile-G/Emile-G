@@ -8,9 +8,8 @@
 ## I'm a Back-End oriented developper, looking to learn some server stuff too !
 
 - 🔭 I’m currently working on a [portfolio][website]!
-- 👯 I’m looking to get a job, and learn some new stuff.
-- 🥅 2021 Goals: Find a job, get more to the front-end side of things
-- 🥅 2021 Goals too : Separate myself away from PHP a little bit, be more on JS/TS side of things
+- 👯 I’m looking to evolve at my current job, and learn some new stuff.
+- 🥅 2023 Goals : Separate myself away from PHP a little bit, be more on JS/TS side of things
 
 ### Connect with me:
 
