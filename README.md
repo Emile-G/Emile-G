@@ -1,15 +1,12 @@
-### Well hello there ! - I'm Emile Gardent and there is my [website] 👋
+### Well hello there ! I'm Emile Gardent and there is my [website] 👋
 
-- I'm a french guy who like to work in web and app programming !
+Full Stack Software Engineer that love experimenting, discovering and learning new things,
+I've mainly used PHP and some JS/TS in my missions but I'm never afraid to learn new language, even new tech in general.
 
 [![Website](https://img.shields.io/website?label=egardent.fr&style=for-the-badge&url=https%3A%2F%2Fegardent.fr)](https://egardent.fr/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/EmileGardent?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/EmileGardent)
 
-## I'm a Back-End oriented developper, looking to learn some server stuff too !
-
-- 🔭 I’m currently working on a [portfolio][website]!
-- 👯 I’m looking to evolve at my current job, and learn some new stuff.
-- 🥅 2023 Goals : Separate myself away from PHP a little bit, be more on JS/TS side of things
+## I'm a FUllstack oriented developper, looking to learn some server stuff too !
 
 ### Connect with me:
 
