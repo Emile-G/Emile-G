@@ -43,4 +43,4 @@ I've mainly used PHP and some JS/TS in my missions but I'm never afraid to learn
 
 [website]: https://egardent.fr
 [twitter]: https://twitter.com/EmileGardent
-[linkedin]: www.linkedin.com/in/emile-g
+[linkedin]: https:/www.linkedin.com/in/emile-g
