@@ -7,7 +7,7 @@ I'm never afraid to learn new language, even new tech in general.
 [![Website](https://img.shields.io/website?label=egardent.fr&style=for-the-badge&url=https%3A%2F%2Fegardent.fr)](https://egardent.fr/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/EmileGardent?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/EmileGardent)
 
-## I'm a FUllstack oriented developper, looking to learn some server stuff too !
+## I'm a Fullstack oriented developper, enjoying the DevOps way of thinking !
 
 ### Connect with me:
 
